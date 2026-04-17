@@ -1,0 +1,121 @@
+ARTIFICIAL INTELLIGENCE IN FINANCIAL SERVICES — INDUSTRY OVERVIEW 2025
+
+INTRODUCTION
+
+Artificial intelligence is transforming the financial services industry at an
+unprecedented pace. Banks, insurers, and asset managers are deploying AI across
+their operations — from customer service and fraud detection to risk management
+and regulatory compliance. The technology has moved from experimental pilots to
+production systems handling millions of transactions daily.
+
+CURRENT STATE OF AI ADOPTION
+
+85% of financial services firms are currently using some form of AI in their
+operations. The most common applications are fraud detection, credit scoring,
+customer service automation, and anti-money laundering. Machine learning models
+now process loan applications in seconds that previously took days of manual
+review.
+
+Generative AI has created a significant step change since 2023. Large language
+models are being used to summarise documents, draft communications, answer
+customer queries, and assist analysts with research. Investment banks are using
+AI to analyse earnings calls, news sentiment, and market data simultaneously.
+
+RETRIEVAL AUGMENTED GENERATION IN FINANCE
+
+RAG systems are particularly valuable in financial services because they allow
+AI to answer questions using verified, up to date documents rather than relying
+on training data that may be outdated or incorrect. A compliance team can ask
+questions about regulatory documents and receive accurate answers with source
+citations. A relationship manager can query a client's full history and get
+instant summaries. Risk teams can interrogate thousands of pages of policy
+documents in seconds.
+
+The key advantage of RAG over fine-tuning in financial services is auditability.
+Because answers are grounded in specific retrieved documents, compliance teams
+can verify exactly where an answer came from. This is critical in regulated
+environments where decisions must be explainable and traceable.
+
+AGENTIC AI
+
+Agentic AI refers to AI systems that can plan, reason, and take sequences of
+actions autonomously to complete complex tasks. Unlike a simple chatbot that
+responds to one question at a time, an agent can break a goal into steps, use
+tools like web search or databases, check its own work, and iterate until the
+task is complete.
+
+In financial services, agentic AI is being applied to automate complex workflows
+such as loan processing, claims handling, regulatory reporting, and portfolio
+rebalancing. An agent can read a document, extract key information, cross
+reference it against a database, flag anomalies, and produce a summary report —
+all without human intervention.
+
+FRAUD DETECTION AND RISK MANAGEMENT
+
+AI has significantly improved fraud detection in banking. Traditional rule-based
+systems flagged transactions based on fixed thresholds. Machine learning models
+can identify complex patterns across millions of transactions in real time,
+catching sophisticated fraud that rule-based systems miss while reducing false
+positives that frustrate genuine customers.
+
+Credit risk models now incorporate alternative data sources — utility payments,
+rental history, mobile phone usage — alongside traditional credit scores to
+assess borrowers more accurately. This has expanded access to credit for
+customers who were previously excluded by traditional scoring methods.
+
+REGULATORY COMPLIANCE AND RESPONSIBLE AI
+
+Financial services is one of the most heavily regulated industries in the world.
+AI systems must be explainable, fair, and auditable. Regulators require firms to
+demonstrate that their AI models do not discriminate unfairly and that decisions
+can be explained to customers.
+
+The EU AI Act, which came into effect in 2024, classifies most financial services
+AI as high risk, requiring mandatory human oversight, detailed documentation, and
+regular testing for bias. Firms must maintain an inventory of all AI systems and
+assess their compliance regularly.
+
+Responsible AI means building systems that are transparent, fair, reliable, and
+safe. It is not just about compliance — organisations that build trustworthy AI
+systems see better business outcomes because customers and regulators trust them.
+
+LARGE LANGUAGE MODELS IN FINANCIAL SERVICES
+
+Large language models are being used across financial services for document
+analysis, report generation, customer communication, and knowledge management.
+Banks are using LLMs to analyse earnings transcripts and regulatory filings.
+Insurance companies are using them to process claims documents and customer
+correspondence. Asset managers are using them to synthesise research reports.
+
+The main risks of LLMs in finance are hallucination — where the model generates
+plausible but incorrect information — and the use of outdated training data.
+RAG systems address both risks by grounding model outputs in verified, current
+documents.
+
+EMBEDDINGS AND SEMANTIC SEARCH
+
+Embeddings are numerical representations of text that capture meaning. Similar
+concepts have similar embeddings even if they use different words. This enables
+semantic search — finding relevant information based on meaning rather than
+keyword matching.
+
+In financial services, semantic search allows analysts to find relevant
+precedents, regulations, and case studies using natural language queries rather
+than exact keyword searches. A query for credit risk policy will return relevant
+documents even if they use terms like lending guidelines or borrower assessment.
+
+Vector databases such as ChromaDB and Pinecone store these embeddings and enable
+fast similarity search across millions of documents. This is the foundation of
+RAG systems in financial services.
+
+CHALLENGES AND FUTURE OUTLOOK
+
+The main challenges facing AI adoption in financial services are data quality,
+talent shortages, regulatory uncertainty, and third party risk. 83% of firms say
+their AI adoption would be faster if they had stronger data infrastructure.
+
+Looking ahead, agentic AI and multimodal models — which can process text,
+images, audio, and structured data together — are expected to create the next
+wave of transformation. The firms that invest in AI engineering talent and
+infrastructure today will have a significant competitive advantage in the years
+ahead.

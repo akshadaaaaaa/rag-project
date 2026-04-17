@@ -1,0 +1,15 @@
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ChromaDB local storage
+chroma/
+
+# Mac files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
