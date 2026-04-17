@@ -90,9 +90,4 @@ Question → Embed → Search ChromaDB → Top 3 chunks
 - How to prevent hallucination using prompt constraints
 - How to wrap a Python AI pipeline in a REST API
 
-## Next steps
 
-- Add support for multiple documents
-- Add document filtering
-- Add confidence scores to retrieved chunks
-- Deploy to cloud (Railway / AWS Lambda)
