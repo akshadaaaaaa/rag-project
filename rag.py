@@ -111,7 +111,7 @@ def ask(question):
     return answer, retrieved_chunks
 
 #Ask a question
-# question = "What are Akshada's key skills?"
+# question = "When did the EU AI act commence?"
 # answer, sources = ask(question)
 
 # print(f"\nQuestion: {question}")
